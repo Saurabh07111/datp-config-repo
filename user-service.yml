@@ -1,0 +1,3 @@
+service:
+  name: "User Service"
+  message: "Hello from User Service (GitHub)"
