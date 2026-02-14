@@ -6,7 +6,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/datp_userdb
     username: root
-    password: local
+    password: dev
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
